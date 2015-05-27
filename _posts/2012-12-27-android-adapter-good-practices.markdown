@@ -373,3 +373,6 @@ I have done a lot of research, written different adapters, duct taped and glued 
 
 ## [robertoallende](robertoallende.com)
 Great article, you've saved my day. Thank you very much!
+
+## [Francisco]()
+Great post!, but I was trying to use  viewholder pattern for a listview that has a TextView and radioGroup. I need invoke clearCheck()  method in radioGroup ,but does not work well because it is lost status radioButton or duplicated state in another radioButton
